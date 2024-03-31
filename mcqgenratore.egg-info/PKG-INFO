@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: mcqgenratore
+Version: 0.0.1
+Author: Nutan_scienty
+Requires-Dist: openai
+Requires-Dist: langchain
+Requires-Dist: streamlit
+Requires-Dist: python-dotenv
+Requires-Dist: PyPDF2
